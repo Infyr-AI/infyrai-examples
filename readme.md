@@ -9,8 +9,8 @@
 ### Python
 
 1. Streamlit [click here](https://github.com/Infyr-AI/infyrai-examples/blob/main/py/chat_bot.py)
-2. Agno (Coming soon)
-3. Langgraph/Langchain (Coming soon)
+2. Agno [click here](https://github.com/Infyr-AI/infyrai-examples/blob/main/py/Infyr.AI%20Demo.ipynb)
+3. Langgraph/Langchain [click here](https://github.com/Infyr-AI/infyrai-examples/blob/main/py/Infyr.AI%20Demo.ipynb)
 4. CrewAI (Coming soon)
 
 
