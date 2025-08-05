@@ -1,0 +1,15 @@
+{
+  "name": "autogen-example",
+  "version": "1.0.0",
+  "description": "```bash uv sync --frozen cp .env.example .env # then copy paste your Infyr API key in OPENAI_API_KEY= uv run main.py # hello world agent  uv run python web-agent.py # for web agent example ```",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.54.2",
+    "@types/node": "^24.2.0"
+  }
+}
